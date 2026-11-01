@@ -1,0 +1,18 @@
+Supplier: PT Sejahtera Nusantara
+Telp: 021-87654321
+# -----------------------------------------------
+# Nota Faktur Pembelian — Minimarket Maju Jaya
+# Tanggal: 15 Juli 2025
+# -----------------------------------------------
+# Nama Barang              | Qty | Harga Satuan
+# -----------------------------------------------
+Indomie Goreng 85g          | 100 | 3200
+Indomie Kuah Ayam Bawang   | 60  | 3200
+Aqua 600ml                  | 48  | 2500
+Club 1500ml                 | 24  | 6000
+Teh Botol Sosro 450ml       | 36  | 4500
+Good Day Vanilla Latte      | 24  | 8500
+Oreo Original 137g          | 20  | 9000
+Roma Kelapa                 | 30  | 6500
+Sunlight Lemon 800ml        | 12  | 18000
+Rinso Anti Noda 900g        | 10  | 22000
